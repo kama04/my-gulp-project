@@ -16,7 +16,7 @@
 ---
 
 ## 🗂 Структура проєкту
-
+'''
 src/
 ├─ index.html # головна сторінка
 ├─ main.js # JavaScript логіка
@@ -27,6 +27,7 @@ src/
 dist/ # збірка (створюється автоматично)
 gulpfile.js # налаштування Gulp
 package.json # залежності та скрипти
+'''
 
 
 ---
@@ -34,7 +35,7 @@ package.json # залежності та скрипти
 ## ⚙️ Установка
 
 1️⃣ Клонуйте або завантажте репозиторій:
-```bash
+
 git clone https://github.com/<YOUR_USERNAME>/<REPO_NAME>.git
 cd <REPO_NAME>
 
